@@ -8,7 +8,7 @@ you guys wanna see Mr. Wick..
 
 wait i am uploading my photo i don't know how to upload it but i can try.
 
-![john](https://user-images.githubusercontent.com/121804483/215389421-28486259-be23-4339-81b1-9f401db762b9.jpg)
+[![john](https://user-images.githubusercontent.com/121804483/215389421-28486259-be23-4339-81b1-9f401db762b9.jpg)](https://www.youtube.com/watch?v=qEVUtrk8_B4)
 
 taadaa... it
 
