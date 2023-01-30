@@ -1,19 +1,19 @@
 # MarkDown
 ## This is practice set of Markdown
 
-Hi! this is Shakir HERE! and hope you all are doing fine. People i am learning Markdown and this is paragraph.
+Hi! this is Shakir HERE! and hope you all are doing fine. People i am learning Markdown and this is my task to do what you are seeing currently.
 
-I am from kolkata and the best thing is that i dont know bengla strange it is. isn't ? 
 
-anyways... life is strange i mean full of strange event. let's consider this i dont know why i am writing this but still i a writing..
-
-you guys wanna see mee..
+you guys wanna see Mr. Wick..
 
 what i am uploading my photo i don't know how to upload it but i can try.
 
-![This is a alt text.](home/me/image/shakir.png "This is a sample image.")
+![john](https://user-images.githubusercontent.com/121804483/215389421-28486259-be23-4339-81b1-9f401db762b9.jpg)
 
 taadaa... it
+
+This is *Mr. Wick* aka **Boogeyman**.
+Mr. Wick is man of commitment. He is man of focus and will. Once he killed a man with a pencil yes with a pencil.
 
 
 
