@@ -6,14 +6,14 @@ Hi! this is Shakir HERE! and hope you all are doing fine. People i am learning M
 
 you guys wanna see Mr. Wick..
 
-what i am uploading my photo i don't know how to upload it but i can try.
+wait i am uploading my photo i don't know how to upload it but i can try.
 
 ![john](https://user-images.githubusercontent.com/121804483/215389421-28486259-be23-4339-81b1-9f401db762b9.jpg)
 
 taadaa... it
 
 This is *Mr. Wick* aka **Boogeyman**.
-Mr. Wick is man of commitment. He is man of focus and will. Once he killed a man with a pencil yes with a pencil.
+Mr. Wick is man of commitment. He is man of focus. Once he killed a man with a pencil... Shocked na. Yes! with a pencil only.
 
 
 
